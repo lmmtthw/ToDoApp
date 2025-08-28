@@ -1,5 +1,13 @@
 # ToDoApp (Node.js + SwiftUI)
 
+![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-Framework-blue?logo=swift)
+![Xcode](https://img.shields.io/badge/Xcode-15-blue?logo=xcode)
+![iOS](https://img.shields.io/badge/iOS-17-lightgrey?logo=apple)
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-Backend-lightgrey?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb)
+
 This project is a simple **To-Do List App** built with:
 - **Node.js (Express)** and **MongoDB (Mongoose)** for the backend API
 - **SwiftUI** for the iOS frontend
